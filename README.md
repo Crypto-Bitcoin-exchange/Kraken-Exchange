@@ -1,7 +1,7 @@
 # Kraken-Exchange
 Kraken is a veteran US-based cryptographic money trade that provisions a serious exchanging stage total with edge exchanging and OTC choices. Settled in San Francisco, California, Kraken professes to be the biggest Bitcoin trade regarding euro volume and liquidity. 
 
-Kraken offers extensive administrations for the crypto speculator, for example, the capacity to purchase and sell bitcoin and exchange advanced tokens against fiat cash. Kraken can be utilized in a considerable lot of the nations. Residents of the accompanying nations can't utilize Kraken: Afghanistan, Cuba, Iran, Iraq, Japan, North Korea, and Tajikistan. 
+<a href="https://coinpedia.org/exchange/kraken/">Kraken exchange review</A> offers extensive administrations for the crypto speculator, for example, the capacity to purchase and sell bitcoin and exchange advanced tokens against fiat cash. Kraken can be utilized in a considerable lot of the nations. Residents of the accompanying nations can't utilize Kraken: Afghanistan, Cuba, Iran, Iraq, Japan, North Korea, and Tajikistan. 
 
 Kraken Services :
 
@@ -15,7 +15,7 @@ Kraken Fees and Limits :
 
 The Kraken trade charges can be recorded as beneath: 
 
-Kraken Deposit charges and choices 
+<a href="https://coinpedia.org/exchange/kraken/">Kraken Deposit fees</A> charges and choices 
 
 •	EUR SEPA Deposit (Free) – EEA nations as it were 
 
